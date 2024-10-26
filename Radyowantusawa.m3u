@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="nhk|radio1" tvg-name="NHK Radio 1 (Tokyo)" tvg-logo="https://radiko.jp/v2/static/station/logo/JOAK/224x100.png" tvg-type="radio" group-title="NHK Radio",NHK Radio 1 (Tokyo)
+http://mnet.x10.mx/nhkr1.m3u8
+#EXTINF:-1 tvg-id="nhk|radio2" tvg-name="NHK Radio 2" tvg-logo="https://radiko.jp/v2/static/station/logo/JOAB/224x100.png" tvg-type="radio" group-title="NHK Radio",NHK Radio 2
+http://mnet.x10.mx/nhkr2.m3u8
+#EXTINF:-1 tvg-id="nhk|fm" tvg-name="NHK FM (Tokyo)" tvg-logo="https://radiko.jp/v2/static/station/logo/JOAK-FM/224x100.png" tvg-type="radio" group-title="NHK Radio",NHK FM (Tokyo)
+http://mnet.x10.mx/nhkfm.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="02.6 FM BISDAK LAMION TAMBAYAN radio" tvg-logo="" group-title="PH RADIO CHANNELS",02.6 FM BISDAK LAMION TAMBAYAN radio
 https://radio.hornhost.com/8044/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10.27 WOL FM – Cebu City – Central Visayas – PH" tvg-logo="" group-title="PH RADIO CHANNELS",10.27 WOL FM – Cebu City – Central Visayas – PH
