@@ -30,6 +30,9 @@ http://hls.studentsdemo.com:8080/memfs/61efddfc-efa9-4ff1-bada-3876c903ff10.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png", 03. TELERADYO TEST
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 
 
