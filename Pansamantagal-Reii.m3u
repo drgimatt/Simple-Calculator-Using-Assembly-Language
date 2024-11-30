@@ -174,11 +174,12 @@ http://hls.studentsdemo.com:8080/memfs/61efddfc-efa9-4ff1-bada-3876c903ff10.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local", 02. KAPAMILYA CHANNEL
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"keyid":"YmQxN2FmYjVkYzk2NDhhMzliZTc5ZWUzNjM0ZGQ0Yjg=","key":"M2VjZjMwNWQ1NGE3NzI5Mjk5YjkzYTNkNjljMDJlYTU="}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F131.0.0.0%20Safari%2F537.36
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F131.0.0.0%20Safari%2F537.36&Accept=%2A%2F%2A&Accept-Encoding=gzip%2C%20deflate%2C%20br%2C%20zstd&Accept-Language=en-US%2Cen-PH%3Bq%3D0.9%2Cen%3Bq%3D0.8&Cache-Control=no-cache&Pragma=no-cache&Referer=https%3A%2F%2Fwww.iwanttfc.com%2F&Origin=https%3A%2F%2Fwww.iwanttfc.com&Sec-Fetch-Site=cross-site&Sec-Fetch-Mode=cors&Sec-Fetch-Dest=empty
+#KODIPROP:http_referer=https://www.iwanttfc.com/
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/90c9ea6d-0df4-40a8-b70a-b392224d81db/index.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="Local", RP TV
