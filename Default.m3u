@@ -7,6 +7,13 @@
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Local", Animax Test
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/4/4b/CineMo%21.png/revision/latest?cb=20231202173323" group-title="Local", Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
@@ -18,6 +25,12 @@ https://ln.run/Zc85c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MyxPH.png" group-title="Local", MYX International
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MyxPH.png" group-title="Local", MYX PH
+http://115.146.176.131:80/TimRizal/TimRizal/66.m3u8
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png" group-title="Local",MTV 90s
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/300952
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/GMA_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240907152754" group-title="Local", GMA (Alternate)
 http://115.146.176.131:80/TimRizal/TimRizal/14
@@ -77,6 +90,55 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+
+#EXTINF:-1 tvg-id="BBCLifestyle" ch-number="717" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",BBC Lifestyle HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="Local", UAAP Varsity Channel 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
+#EXTINF:-1 tvg-id = "PremierSports" group-title="Local" ch-number = "823" tvg-logo="https://i.imgur.com/i1njy1x.png", Premier Sports
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.ibb.co/DknLzWc/Premier-Sports-2-removebg-preview.png" group-title="Local",Premier Sports 2
+http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/276599.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TrueFM TV" tvg-logo="https://i.ibb.co/b1ysLd1/fight-sports-one-destination-small-1-removebg-preview.png" group-title="Local",Fight Sports
+https://bit.ly/4fm2KBW
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeepney TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="Local",Jeepney TV
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo1zYTxG-py1tWe97L_Ni7xk/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/TVUP%20Logo%20.png" group-title="Local", TVUP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+
+#EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LightTV_Black.png" group-title="Local", Light TV
+http://115.146.176.131:80/TimRizal/TimRizal/39
+
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Local" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" ch-number="810" group-title="Local" tvg-logo="https://iili.io/MkG2hg.png",SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" group-title="Local", TV Maria
+https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nickelodeon-2023.png/2000px-Nickelodeon-2023.png" group-title="Local", Nickelodeon
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -215,6 +277,8 @@ http://hls.studentsdemo.com:8080/memfs/61efddfc-efa9-4ff1-bada-3876c903ff10.m3u8
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png", Kapamilya Channel HD (Alternate)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.102 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
@@ -224,6 +288,9 @@ https://meowmeowphc.blogspot.com/kchcignal.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png/revision/latest?cb=20230427131621" group-title="Local", Kapamilya Channel SD (Alternate)
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png/revision/latest?cb=20230314060833" group-title="Local", Kapatid Channel SD
+https://g1z1.short.gy/Kapatid5
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="Local", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -252,6 +319,11 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+
+#EXTINF:-1 tvg-id="AXN" group-title="Local" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png", AXN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/10/Varsity_Channel_Logo_2021.png/revision/latest?cb=20220319212403" group-title="Local", UAAP Varsity Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -398,8 +470,13 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Local", 35. NBA TV
-https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/full/139-1392116_nba-tv-logo.png" group-title="Local", NBA TV 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Local", TAP SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -480,13 +557,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Knowledge_Channel_logo.png" group-title="Local", KNOWLEDGE CHANNEL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
 #EXTINF:-1 tvg-id="" ch-number="404" group-title="Local" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg", Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
