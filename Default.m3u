@@ -17,6 +17,9 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/4/4b/CineMo%21.png/revision/latest?cb=20231202173323" group-title="Local", Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/31/ALLTV_Logo_2024.png/revision/latest?cb=20240503143739" group-title="Local", ALLTV
+http://hls.studentsdemo.com:8080/memfs/f9aa7828-ce2d-4d29-894e-99f6f2ebb03e.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Local", Cinema One International
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
@@ -35,11 +38,17 @@ http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/300952
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/GMA_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240907152754" group-title="Local", GMA (Alternate)
 http://115.146.176.131:80/TimRizal/TimRizal/14
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/GMA_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240907152754" group-title="Local", GMA (Alternate 2)
+http://hls.studentsdemo.com:8080/memfs/37a75c67-b38c-498b-92cb-f1859e42ee7d.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/GMA_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240907152754" group-title="Local", GMA 
 https://ln.run/1fZGp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/2560px-GTV_Philippines_Logo_Vector.svg.png" group-title="Local", GTV (Alternate)
 http://115.146.176.131:80/TimRizal/TimRizal/35
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/2560px-GTV_Philippines_Logo_Vector.svg.png" group-title="Local", GTV (Alternate)
+http://hls.studentsdemo.com:8080/memfs/0f086e88-c816-4b1a-80cf-71f7334fb0c1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/2560px-GTV_Philippines_Logo_Vector.svg.png" group-title="Local", GTV 
 https://ln.run/yY4Rp
@@ -396,10 +405,7 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="Local" tvg-logo="https://www.logolynx.com/images/logolynx/df/df68e11201d36cdb11f944c035a4d72b.jpeg", TFC 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.102 Mobile Safari/537.36
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCU5RfFBChLXzBJBzMJ4lfEg0MYnlPWqyxQ&s" group-title="Local", PTV 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -468,6 +474,9 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="Local", NBA PH
+http://115.146.176.131:80/TimRizal/TimRizal/97.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Local", TAP SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -636,7 +645,7 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.cookielaw.org/logos/28682487-1901-46d0-9404-01ca5039398a/0191bf12-46b1-704c-8f56-5287e9cc5e78/97ff768f-310c-45f9-a60e-160b258ac861/asiancrush_logo_image.png" group-title="Local", Asiancrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8?
 
-#EXTINF:-1 tvg-id="Channel5.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/2560px-Mediacorp_Channel_5_2023.svg.png" group-title="Local", Channel 8
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/2560px-Mediacorp_Channel_5_2023.svg.png" group-title="Local", Channel 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Local", Channel 8
@@ -663,3 +672,13 @@ https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+#EXTINF:-1 tvg-id="NHKWorldPremium" ch-number="" group-title="Local" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png",NHK World Premium HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5018
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5018/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Net_25_Logo_2023.webp" group-title="Local", NET25
+https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
