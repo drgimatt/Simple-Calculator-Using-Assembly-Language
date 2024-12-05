@@ -701,7 +701,7 @@ http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/2560px-Mediacorp_Channel_8_2023.svg.png" group-title="Local", Channel 8 (AKTV)
-http:// aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8 
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8 
 
 #EXTINF:-1 tvg-id="ChannelU.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/2560px-Mediacorp_Channel_U_2023.svg.png" group-title="Local", Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
