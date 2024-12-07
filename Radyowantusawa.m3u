@@ -553,3 +553,179 @@ http://yesfmvalencia.radioca.st:8231/stream
 https://fast.citrus3.com:8484/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="zRadio – San Carlos – Central Luzon – PH" tvg-logo="" group-title="PH RADIO CHANNELS",zRadio – San Carlos – Central Luzon – PH
 http://streamnavs.net:8091/live
+#EXTINF:0,SBS Power FM (V-Radio)
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=visualpower&streamName=visualpower4
+#EXTINF:0,SBS Love FM (V-Radio)
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=visuallove&streamName=visuallove4
+#EXTINF:0,Jeju JIBS Power FM
+http://123.140.197.22/stream/2/play.m3u8
+#EXTINF:0,MBC Standard FM
+http://mnet.x10.mx/koreaiptv/cable/mbcmini.php?ch=sfm
+#EXTINF:0,MBC FM4U
+http://mnet.x10.mx/koreaiptv/cable/mbcmini.php?ch=mfm
+#EXTINF:0,MBC Viewable Radio (V-Radio)
+http://mnet.x10.mx/koreaiptv/cable/mbcmini.php?ch=bora&type=bora&ua=none
+#EXTINF:0,MBC AllThatMusic
+http://mnet.x10.mx/koreaiptv/cable/mbcmini.php?ch=chm
+#EXTINF:0,SBS GorealRadioM
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsdmb&streamName=sbsdmb
+#EXTINF:0,CBS Standard FM
+http://mnet.x10.mx/koreaiptv/cable/mbcradio.php?url=http%3A//aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:0,CBS Music FM
+http://mnet.x10.mx/koreaiptv/cable/mbcradio.php?url=http%3A//aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:0,FEBC Korea
+http://mlive2.febc.net:1935/live/seoulam/playlist.m3u8
+#EXTINF:0,iFM (V-Radio)
+http://180.131.1.27:1935/live/bora1/playlist.m3u8
+#EXTINF:0,Arirang Radio (V-Radio)
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil%3Aarirang_3ch.smil/playlist.m3u8
+#EXTINF:0,CPBC
+http://onair2.cpbc.co.kr:1935/live/Instreamer.stream_aac/playlist.m3u8
+#EXTINF:0,BBS
+http://bbslive.clouducs.com:1935/bbsradio-live/livestream/playlist.m3u8
+#EXTINF:0,WBS
+http://141.164.60.206:8000/wbs-smok
+#EXTINF:0,Gugak FM
+https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
+#EXTINF:0, YTN News FM
+https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
+#EXTINF:0,tbs FM (V-Radio)
+https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_mobile_360.smil/playlist.m3u8
+#EXTINF:0,tbs eFM (V-Radio)
+https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_mobile_360.smil/playlist.m3u8
+#EXTINF:0,TBN Traffic Radio
+http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
+#EXTINF:0,KFN FM
+http://mediaworks.dema.mil.kr:1935/live_edge/audio.sdp/playlist.m3u8
+#EXTINF:0,KNN Power FM
+http://211.220.195.209:1935/live/mp4%3AKnnRadio1FM.sdp/playlist.m3u8
+#EXTINF:0,KNN Love FM
+http://211.220.195.209:1935/live/mp4%3AKnnRadio2FM.sdp/playlist.m3u8
+#EXTINF:0,TBC Dream FM
+http://mnet.x10.mx/koreaiptv/tbc/fm.m3u8
+#EXTINF:0,kbc MyFM
+http://119.200.131.11:1935/KBCFM/kbcra_aac/playlist.m3u8
+#EXTINF:0,TJB Power FM
+http://1.245.74.5/radiolive/radio_64k/playlist.m3u8
+#EXTINF:0,CJB Joy FM
+https://wowza1.cjb.co.kr/live/cjbradio/playlist.m3u8
+#EXTINF:0,ubc Green FM
+http://59.23.231.102:1935/live/mp3%3AUBCfmstream/playlist.m3u8
+#EXTINF:0,G1 Fresh FM
+http://61.82.49.4:1935/fm/_definst_/myStream/playlist.m3u8
+#EXTINF:0,JTV Magic FM
+https://61ff3340258d2.streamlock.net/jtv_radio/myStream/playlist.m3u8
+#EXTINF:0,Jeonju MBC Standard FM
+https://5ee9633b25727.streamlock.net/jmbc_sfm/myStream/playlist.m3u8
+#EXTINF:0,Jeonju MBC FM4U
+https://5ee9633b25727.streamlock.net/jmbc_fm4u/myStream/playlist.m3u8
+#EXTINF:0,Jeju MBC Standard FM
+https://wowza.jejumbc.com/live/_definst_/mp3%3Aradio1/playlist.m3u8
+#EXTINF:0,Jeju MBC FM4U
+https://wowza.jejumbc.com/live/_definst_/mp3%3Aradio2/playlist.m3u8
+#EXTINF:0,Magic 89.9 Manila
+https://stream.zeno.fm/hcbrvvfd938uv
+#EXTINF:0,987FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,Class 95
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,CNA 938
+https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,GOLD 905
+https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,Symphony 92.4
+https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,Capital 95.8
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,YES 93.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,Love 97.2
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,Ria 89.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,Warna 94.2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,Oli 96.8
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.m3u8?dist=radiosingapore
+#EXTINF:0,Z100
+https://stream.revma.ihrhls.com/zc1469/hls.m3u8
+#EXTINF:0,WFAN
+https://entercom-sgrewind.streamguys1.com/entercom/417/playlist.m3u8
+#EXTINF:0,NewsRadio WINS 1010
+https://entercom-sgrewind.streamguys1.com/entercom/305/playlist.m3u8
+#EXTINF:0,KYW NewsRadio 1060
+https://entercom-sgrewind.streamguys1.com/entercom/533/playlist.m3u8
+#EXTINF:0,102.7 KIIS FM
+http://stream.revma.ihrhls.com/zc185/hls.m3u8
+#EXTINF:0,MusicRadio WLS
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC_SC.m3u8?dist=radiosingapore
+#EXTINF:0,WQXR 105.9
+https://hls-live.wnyc.org/wqxr48/playlist.m3u8
+#EXTINF:0,BBC Radio 1
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
+#EXTINF:0,BBC Radio 1Xtra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_1xtra.m3u8
+#EXTINF:0,BBC Radio 2
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_two.m3u8
+#EXTINF:0,BBC Radio 3
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_three.m3u8
+#EXTINF:0,BBC Radio 4FM
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
+#EXTINF:0,BBC Radio 4LW
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourlw.m3u8
+#EXTINF:0,BBC Radio 4Xtra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_four_extra.m3u8
+#EXTINF:0,BBC Radio 5Live
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_five_live.m3u8
+#EXTINF:0,BBC Radio 6
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_6music.m3u8
+#EXTINF:0,BBC Radio Asian Network
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_asian_network.m3u8
+#EXTINF:0,95.8 Capital FM
+https://media-ssl.musicradio.com/Capital
+#EXTINF:0,TalkSport
+http://radio.talksport.com/stream
+#EXTINF:0,Classic FM
+https://media-ice.musicradio.com/ClassicFM
+#EXTINF:0,LBC Radio
+https://media-ssl.musicradio.com/LBCUK
+#EXTINF:0,LBC News
+https://media-ssl.musicradio.com/LBCNewsLondon
+#EXTINF:0,Times Radio
+https://timesradio.wireless.radio/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website
+#EXTINF:0,Kiss 92
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.m3u8?dist=radiosingapore
+#EXTINF:0,UFM1003
+https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.m3u8?dist=radiosingapore
+#EXTINF:0,One FM 91.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.m3u8?dist=radiosingapore
+#EXTINF:0,Money FM 89.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.m3u8?dist=radiosingapore
+#EXTINF:0,Hao 96.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8?dist=radiosingapore
+#EXTINF:0,883JIA
+https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA_SC.aac?dist=radiosingapore
+#EXTINF:0,POWER98
+https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS_SC.aac?dist=radiosingapore
+#EXTINF:0,NHK Radio 1 (Tokyo)
+http://mnet.x10.mx/nhkr1.m3u8
+#EXTINF:0,NHK Radio 2
+http://mnet.x10.mx/nhkr2.m3u8
+#EXTINF:0,NHK FM (Tokyo)
+http://mnet.x10.mx/nhkfm.m3u8
+#EXTINF:0,KBS Standard FM (V-Radio)
+http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=1radio-bora
+#EXTINF:0,KBS Happy FM (V-Radio)
+http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=2radio-bora
+#EXTINF:0,Jeju KBS Standard FM
+http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=jeju-1radio
+#EXTINF:0,Jeju KBS Happy FM
+http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=jeju-2radio
+#EXTINF:0,KBS 3Radio
+http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=3radio
+#EXTINF:0,KBS Korean Unity Radio
+http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=hanminjokradio
+#EXTINF:0,KBS 1FM
+http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=1fm
+#EXTINF:0,KBS 2FM (V-Radio)
+http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=2fm-bora
