@@ -57,7 +57,7 @@ http://tv14s.xyz:8080/live/36820828/31222528/101826.ts
 https://g1z1.short.gy/PH-GMALIFE
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/2560px-GMA_News_TV_Logo_Vector.svg.png" group-title="Local", GMA News TV
-http://jafupro.com:80/live/David123/David123/65980.ts
+http://vip2102.112421.net:2050/TqKxhmvLQF/jZyL8dxN1i/4126777
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026'' group-title="Local", TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -285,7 +285,7 @@ http://hls.studentsdemo.com:8080/memfs/61efddfc-efa9-4ff1-bada-3876c903ff10.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 #EXTVLCOPT:network-caching=10
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.iwanttfc.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=referer=User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20ART-L28)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F112.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.iwanttfc.com&Origin=https%3A%2F%2Fwww.iwanttfc.com&Accept=%2A%2F%2A&Accept-Encoding=gzip%2C%20deflate%2C%20br&Accept-Language=en-US%2Cen%3Bq%3D0.9&DNT=1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png/revision/latest?cb=20230427131621" group-title="Local", Kapamilya Channel SD
@@ -701,7 +701,7 @@ http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/2560px-Mediacorp_Channel_8_2023.svg.png" group-title="Local", Channel 8 (AKTV)
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8 
+http:// aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8 
 
 #EXTINF:-1 tvg-id="ChannelU.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/2560px-Mediacorp_Channel_U_2023.svg.png" group-title="Local", Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
