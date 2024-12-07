@@ -284,9 +284,7 @@ http://hls.studentsdemo.com:8080/memfs/61efddfc-efa9-4ff1-bada-3876c903ff10.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-#EXTVLCOPT:network-caching=10
-#KODIPROP:inputstream.adaptive.stream_headers=referer=User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20ART-L28)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F112.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fwww.iwanttfc.com&Origin=https%3A%2F%2Fwww.iwanttfc.com&Accept=%2A%2F%2A&Accept-Encoding=gzip%2C%20deflate%2C%20br&Accept-Language=en-US%2Cen%3Bq%3D0.9&DNT=1
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd?ads.did=a560ec37-c7f7-4e08-9edf-064f03104345&ads.us_privacy=1NYN&coppa=0&sid=7f3a23f1-e91d-42c8-ae1a-bd397e6b348d&url=https%3A%2F%2Fwww.iwanttfc.com&rdid=a560ec37-c7f7-4e08-9edf-064f03104345&is_lat=0&idtype=ppid&dnt=1&description_url=https%3A%2F%2Fwww.iwanttfc.com&cust_params=lotame%3D%26VidID%3DZfYR-ZQ9qH430EU3qU1XZQ%26GenreID%3D4HI26muPSBvW2M-iyzPoow%26VidParID%3D%26CPID%3DABSCBN%26Rating%3D%26Platform%3DWeb%26Hostname%3Dwww.iwanttfc.com%26rdid%3Da560ec37-c7f7-4e08-9edf-064f03104345%26is_lat%3D0%26idtype%3Dppid%26dnt%3D1%26sid%3D7f3a23f1-e91d-42c8-ae1a-bd397e6b348dcontwatch%3D0%26adpos%3Dmidroll%26trig%3Dauto%26UserAgent%3DMozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F131.0.0.0%20Safari%2F537.36%26geo%3DPH%26Plan%3D%26Plan_desc%3D%26loggedin%3D0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png/revision/latest?cb=20230427131621" group-title="Local", Kapamilya Channel SD
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
