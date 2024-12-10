@@ -59,6 +59,9 @@ http://1tv41.icu:8080/kberg6767@gmail.com/kberg6767@2024/101825
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/2560px-GMA_News_TV_Logo_Vector.svg.png" group-title="Local", GMA News TV
 http://activefrance.net/live/W8MEP61/2X2H702/72459.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="Local", I Heart Movies 
+http://data.enics.cloud:9999/stream/iptv/ihm/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026'' group-title="Local", TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
