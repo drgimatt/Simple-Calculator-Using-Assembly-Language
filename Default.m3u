@@ -279,12 +279,9 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
 
 #EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png/revision/latest?cb=20230427131621" group-title="Local", Kapamilya Channel HD
-http://data.enics.cloud:9999/stream/iptv/kapamilya/master.m3u8?u=iptv&p=c7850fdcbb6a131986b11aff108b4895c3d28245db42f0ae5624c1d296619c89
-
-#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png/revision/latest?cb=20230427131621" group-title="Local", Kapamilya Channel HD (Alternate)
 http://hls.studentsdemo.com:8080/memfs/61efddfc-efa9-4ff1-bada-3876c903ff10.m3u8
 
-#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png", Kapamilya Channel HD (Alternate 2)
+#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png", Kapamilya Channel HD (Alternate)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
