@@ -293,8 +293,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/4/4c/Kapamilya_Channel_Logo_2020.png/revision/latest?cb=20230427131621" group-title="Local", Kapamilya Channel SD
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
 
-#EXTINF:-1 tvg-id="Kapatid.TV5.ca" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png/revision/latest?cb=20230314060833" group-title="Local", Kapatid Channel SD
-https://g1z1.short.gy/Kapatid5
+#EXTINF:-1 tvg-id="Kapatid.TV5.ca" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png/revision/latest?cb=20230314060833" group-title="Local", Kapatid Channel
+http://freetv.dimcel.art/Freetvlakay/Freetvlakay/1388
 
 #EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="Local", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -810,20 +810,5 @@ https://webtvstream.bhtelecom.ba/hls16/mtv_90s.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
-#EXTINF:-1 tvg-logo="logo-url" group-title="Local" tvg-id="CINEMO!.ph", TEST - Cinemo!
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=731855&extension=ts&play_token=fL23PithXb
-
-#EXTINF:-1 tvg-logo="logo-url" group-title="Local" tvg-id="The.Filipino.Channel.nz", TEST - TFC
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=520935&extension=ts&play_token=Psl6IcyuUV
-
-#EXTINF:-1 tvg-id="Kapatid.TV5.ca" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png/revision/latest?cb=20230314060833" group-title="Local",TEST - Kapatid Channel
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=223020&extension=ts&play_token=6rYAOVZDHb
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo-url" group-title="Local",TEST - Celestial Movies
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=571218&extension=ts&play_token=hjVBoTAGVM
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo-url" group-title="Local",TEST - HBO2
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=45552&extension=ts&play_token=y5BQakcBzU
-
-#EXTINF:-1 tvg-id="GMA/Pinoy.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/GMA_Pinoy_TV_%282024%29.png/revision/latest?cb=20240907155423" group-title="Local",TEST - GMA Pinoy TV
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=223027&extension=ts&play_token=IVwqqRX3VP
+#EXTINF:-1 ch-number="" tvg-id="" group-title="Local" tvg-logo="",TEST - Aniplus
+http://viponern.top:8080/VIP0141169513667221/11695136672455/34771
